@@ -1,0 +1,84 @@
+{
+  "_from": "lucky-wheel",
+  "_id": "lucky-wheel@1.1.5",
+  "_inBundle": false,
+  "_integrity": "sha1-Qj0a+MZqF8ze8g3WfYQrNJYMadM=",
+  "_location": "/lucky-wheel",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "lucky-wheel",
+    "name": "lucky-wheel",
+    "escapedName": "lucky-wheel",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/lucky-wheel/-/lucky-wheel-1.1.5.tgz",
+  "_shasum": "423d1af8c66a17ccdef20dd67d842b34960c69d3",
+  "_spec": "lucky-wheel",
+  "_where": "D:\\BoxyBanana\\ReactJs\\superbit-ui",
+  "author": {
+    "name": "JD"
+  },
+  "bugs": {
+    "url": "https://github.com/JDEast1029/lucky-wheel/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "deprecated": false,
+  "description": "幸运大转盘",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-es2015-rollup": "^3.0.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "cssnano": "^3.10.0",
+    "node-sass": "^4.7.2",
+    "postcss-cssnext": "^3.0.2",
+    "postcss-nested": "^3.0.0",
+    "postcss-simple-vars": "^4.1.0",
+    "rollup": "^0.53.0",
+    "rollup-plugin-babel": "^3.0.3",
+    "rollup-plugin-commonjs": "^8.2.6",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "rollup-plugin-postcss": "^0.5.5",
+    "rollup-plugin-scss": "^0.4.0"
+  },
+  "files": [
+    "dist/",
+    "lib/",
+    "README.md"
+  ],
+  "homepage": "https://github.com/JDEast1029/lucky-wheel#readme",
+  "keywords": [
+    "react",
+    "rollup",
+    "components"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "lucky-wheel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDEast1029/lucky-wheel.git"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.5"
+}
