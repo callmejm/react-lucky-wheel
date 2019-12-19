@@ -28,11 +28,14 @@ render() {
   return (
     <LuckyWheel
        onLoadData={this.handleLoadData}
-       position={position}
+       position={this.state.position}
        areaNum={7}
        cycle={10}
-       isComplete={isComplete}
+       isComplete={this.state.isComplete}
        onComplete={this.handleComplete}
+	   TURNTABLE_BG={TURNTABLE_BG} // new added
+	   TURNTABLE={TURNTABLE}// new added
+	   POINTER={POINTER}// new added
     />
   )
 }
