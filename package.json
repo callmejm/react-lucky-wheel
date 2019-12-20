@@ -1,27 +1,27 @@
 {
-  "_from": "lucky-wheel",
+  "_from": "git+https://github.com/callmejm/react-lucky-wheel.git",
   "_id": "lucky-wheel@1.1.5",
   "_inBundle": false,
-  "_integrity": "sha1-Qj0a+MZqF8ze8g3WfYQrNJYMadM=",
+  "_integrity": "",
   "_location": "/lucky-wheel",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "lucky-wheel",
+    "type": "git",
+    "raw": "lucky-wheel@git+https://github.com/callmejm/react-lucky-wheel.git",
     "name": "lucky-wheel",
     "escapedName": "lucky-wheel",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
+    "rawSpec": "git+https://github.com/callmejm/react-lucky-wheel.git",
+    "saveSpec": "git+https://github.com/callmejm/react-lucky-wheel.git",
+    "fetchSpec": "https://github.com/callmejm/react-lucky-wheel.git",
+    "gitCommittish": null
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/lucky-wheel/-/lucky-wheel-1.1.5.tgz",
+  "_resolved": "git+https://github.com/callmejm/react-lucky-wheel.git#16549faef57c03473f23c9e8b5e5fc2979c43689",
   "_shasum": "423d1af8c66a17ccdef20dd67d842b34960c69d3",
-  "_spec": "lucky-wheel",
+  "_spec": "lucky-wheel@git+https://github.com/callmejm/react-lucky-wheel.git",
   "_where": "D:\\BoxyBanana\\ReactJs\\superbit-ui",
   "author": {
     "name": "JD"
